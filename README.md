@@ -6,3 +6,11 @@ Project Overview: - We have made this pension calculator with the help of the py
 Formula of pension calculator: 
 • basic Pension = .5 * (Basic Pay + Special Pay + stagnation Pay + QualifationPay1+ Fixed Personal Pay + Other Pay) * Years of Service / 33
 • Commutation Amount = basic Pension * Commutation Percent / 100
+# Main Window
+<p align='center'>
+  <img src='python1.jpeg'/>
+</p>
+# Main Window with show data
+<p align='center'>
+  <img src='python2.jpeg'/>
+</p>
